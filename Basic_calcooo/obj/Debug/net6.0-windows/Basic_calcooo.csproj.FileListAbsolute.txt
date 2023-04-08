@@ -1,0 +1,17 @@
+C:\Users\Matias\source\repos\Basic_calcooo\bin\Debug\net6.0-windows\Basic_calcooo.exe
+C:\Users\Matias\source\repos\Basic_calcooo\bin\Debug\net6.0-windows\Basic_calcooo.deps.json
+C:\Users\Matias\source\repos\Basic_calcooo\bin\Debug\net6.0-windows\Basic_calcooo.runtimeconfig.json
+C:\Users\Matias\source\repos\Basic_calcooo\bin\Debug\net6.0-windows\Basic_calcooo.dll
+C:\Users\Matias\source\repos\Basic_calcooo\bin\Debug\net6.0-windows\Basic_calcooo.pdb
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.Form1.resources
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.dll
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\refint\Basic_calcooo.dll
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.pdb
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\Basic_calcooo.genruntimeconfig.cache
+C:\Users\Matias\source\repos\Basic_calcooo\obj\Debug\net6.0-windows\ref\Basic_calcooo.dll
